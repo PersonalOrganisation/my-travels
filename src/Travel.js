@@ -2,9 +2,9 @@
 import React from "react";
 import './App.css';
 
-const Travel = ({ destination, country, photo, distance }) => (
+const Travel = ({ city, country,distance, photo }) => (
     <div>
-        <h2>{destination}</h2>
+        <h2>{city}</h2>
         <h4>{country}</h4>
         <p>{distance}</p>
         <img src={photo} alt="" />
