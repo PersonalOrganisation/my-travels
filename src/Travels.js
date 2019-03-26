@@ -20,7 +20,7 @@ const travels = [
     country: 
     "Portugal",
     distance:
-    "8000 km",
+    "1470 km",
     photo:
     "https://farm4.staticflickr.com/3898/14377663581_89e794b5d0_b.jpg"
     },
@@ -30,7 +30,7 @@ const travels = [
     country: 
     "Croatie",
     distance:
-    "8000 km",
+    "1800 km",
     photo:
     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Dubrovnik_june_2011..JPG/1024px-Dubrovnik_june_2011..JPG"
     },
@@ -40,7 +40,7 @@ const travels = [
     country: 
     "Italie",
     distance:
-    "8000 km",
+    "1289 km",
     photo:
     "https://farm9.staticflickr.com/8588/16076914571_6046d564d6_b.jpg"
     },
@@ -50,7 +50,7 @@ const travels = [
     country: 
     "Espagne",
     distance:
-    "8000 km",
+    "763 km",
     photo:
     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Barcelone_-_Parc_G%C3%BCell_-_Entr%C3%A9e.jpg/1024px-Barcelone_-_Parc_G%C3%BCell_-_Entr%C3%A9e.jpg"
     }
